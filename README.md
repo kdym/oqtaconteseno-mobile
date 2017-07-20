@@ -6,6 +6,7 @@ This application uses the latest Ionic 3 framework with the following plugins:
 * CrosswalkWebview
 * Geolocation
 * Facebook
+* NgxTranslate
 
 ### Platforms
 * Android
