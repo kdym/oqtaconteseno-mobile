@@ -7,6 +7,11 @@ This application uses the latest Ionic 3 framework with the following plugins:
 * Geolocation
 * Facebook
 
+### Platforms
+* Android
+* iOS (to be implemented)
+* Windows Phone (to be implemented)
+
 ## Features
 * Single Facebook login
 * Javascript GoogleMaps API
