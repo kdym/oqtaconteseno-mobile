@@ -1,0 +1,20 @@
+<ion-content padding>
+  <div class="grid-vertical-center" id="login-container">
+    <ion-grid>
+      <ion-row id="logo-container">
+        <ion-col text-center>
+          <img src="assets/img/logo.png"/>
+        </ion-col>
+      </ion-row>
+
+      <ion-row>
+        <ion-col>
+          <button ion-button full icon-left (click)="login()">
+            <ion-icon name="logo-facebook"></ion-icon>
+            {{ 'facebook_login' | translate }}
+          </button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+</ion-content>

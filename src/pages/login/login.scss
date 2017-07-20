@@ -1,0 +1,17 @@
+page-login {
+  .content {
+    background: url('../assets/img/login_background2.jpg') center;
+    background-size: cover;
+  }
+
+  #login-container {
+    #logo-container {
+      flex: 1;
+      align-items: center;
+
+      img {
+        height: 20vh;
+      }
+    }
+  }
+}
